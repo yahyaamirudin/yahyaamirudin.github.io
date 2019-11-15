@@ -1,0 +1,54 @@
+.foto{
+    text-align: center;
+    margin-top: 20px;
+}
+.saya{
+    text-align: center;
+}
+.saya .row{
+    display: flex;
+    justify-content: center;
+}
+.saya .row .col{
+    margin-right: 10px;
+}
+
+.saya .row .col:hover{
+    cursor: pointer;
+}
+
+.item{
+    display: flex;
+    margin-top: 20px;    
+}
+
+.item.nama{
+    margin-top: 80px;
+}
+
+.item .content{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.subtitle{
+    font-weight: lighter;
+}
+
+.keterangan{
+    font-weight: bolder;
+}
+.content2{
+    margin-top: 20px;
+    
+}
+.skill{
+    display: flex;
+}
+.skill .isi{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.bintang{
+    width: 100px;
+}
